@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cat football game</string>
+    <string name="intro">Let\'s count points for your cat</string>
+    <string name="catA">Viki</string>
+    <string name="catB">Cernovous</string>
+</resources>
